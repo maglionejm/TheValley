@@ -21,3 +21,6 @@ Abstraerse de los conceptos teóricos para poder aplicar diferentes herramientas
 
 Notebooks a revisar:
 - [NLP_Essentials](https://colab.research.google.com/drive/1hn8QQH5H4_WcdX0t3zPuHMLieFA2MVd8?usp=sharing)
+
+Data:
+- [Alice in Wonderland TXT](https://github.com/maglionejm/TheValley/blob/main/data/aliceinwonderland.txt) | [Raw](https://raw.githubusercontent.com/maglionejm/TheValley/main/data/aliceinwonderland.txt)
